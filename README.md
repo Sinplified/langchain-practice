@@ -2,7 +2,7 @@
 
 This repository contains practice work following the [LangChain course by aurelio-labs](https://github.com/aurelio-labs/langchain-course#).
 
-It includes notebooks and code examples as I explore and understand the core components of LangChain, such as:
+It includes notebooks and code examples for exploring and understanding the core components of LangChain, such as:
 
 - Prompt Templates
 - LLMChains
